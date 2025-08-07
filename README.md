@@ -1,14 +1,23 @@
-TimetableNow™ | منصة تايم تيبل ناو **
+# TimetableNow™ | منصة تايم تيبل ناو
 
-TimetableNow™ – الجدول الذكي
-TimetableNow™ is the official Smart School Timetable Platform developed for schools worldwide, with multilingual support including Arabic, English, Chinese, and more.
+## TimetableNow™ – الجدول الذكي للمدارس
 
-**All rights reserved | جميع الحقوق محفوظة **
+**TimetableNow™** is the official **Smart School Timetable Platform** developed for schools worldwide, with multilingual support including **Arabic, English, Chinese**, and more.
 
-© TimetableNow™. جميع الحقوق محفوظة. تم إنشاء هذه المنصة وتوثيق الاسم قبل أي طرف ثالث.
-This brand is reserved and protected by its official owner. Do not reuse without permission.
+---
 
-    🔗 https://eauthenticate.saudibusiness.gov.sa/certificate-details/0000175177
-    🌐 https://timetablenow.com
-    🇸🇦 https://timetablenow.com.sa
-    🇸🇦 https://timetablenow.sa
+### © All Rights Reserved | جميع الحقوق محفوظة
+
+© TimetableNow™.  
+تم إنشاء هذه المنصة وتوثيق الاسم رسميًا قبل أي طرف ثالث.  
+This brand is reserved and protected by its official owner.  
+**Do not reuse, copy, or distribute without written permission.**
+
+---
+
+### 🔗 الروابط الرسمية
+
+- 📜 [شهادة التوثيق الرسمية](https://eauthenticate.saudibusiness.gov.sa/certificate-details/0000175177)
+- 🌐 [الموقع الرسمي](https://timetablenow.com)
+- 🇸🇦 [النطاق السعودي](https://timetablenow.com.sa)  
+- 🇸🇦 [النطاق المختصر](https://timetablenow.sa)
