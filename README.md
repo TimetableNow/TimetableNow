@@ -1,16 +1,14 @@
-## Hi there 👋
+TimetableNow™ | منصة تايم تيبل ناو **
 
-<!--
-**TimetableNow/TimetableNow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TimetableNow™ – الجدول الذكي
+TimetableNow™ is the official Smart School Timetable Platform developed for schools worldwide, with multilingual support including Arabic, English, Chinese, and more.
 
-Here are some ideas to get you started:
+**All rights reserved | جميع الحقوق محفوظة **
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+© TimetableNow™. جميع الحقوق محفوظة. تم إنشاء هذه المنصة وتوثيق الاسم قبل أي طرف ثالث.
+This brand is reserved and protected by its official owner. Do not reuse without permission.
+
+    🔗 https://eauthenticate.saudibusiness.gov.sa/certificate-details/0000175177
+    🌐 https://timetablenow.com
+    🇸🇦 https://timetablenow.com.sa
+    🇸🇦 https://timetablenow.sa
